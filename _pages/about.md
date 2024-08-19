@@ -17,6 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Focusing on the development of the robotics & automation, I am now a graduate student majored in `Computer Control & Automation` at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. I would like to use a Mercedes slogan as my motto: The best or nothing. While learning basic mechanical and automation knowledge, I also worked hard to become a reliable and mature engineer in the future.
+Focusing on the development of the robotics & automation, I am now a graduate student majored in `Computer Control & Automation` at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore. I would like to use a Mercedes slogan as my motto: The best or nothing. While learning basic mechanical and automation knowledge, I also work hard to become a reliable and mature engineer in the future.
 
 
