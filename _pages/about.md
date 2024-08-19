@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AIMechE</a>.BSc.(UM)
+subtitle: <a href='#'>AIMechE</a>. BSc.(UM)
 
 profile:
   align: right
