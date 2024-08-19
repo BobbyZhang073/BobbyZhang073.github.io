@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Tong Zhang (Bobby)",
+    "label": "Learner",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "tzhang043@e.ntu.edu.sg",
+    "phone": "(853) 65391306/ (65) 83966605",
+    "url": "https://BobbyZhang073.github.io",
+    "summary": "A Chinese Postgraduate Student in Sg who has passions for letting the world smarter",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Jurong West 91 St",
+      "postalCode": "SG 640913",
+      "city": "Singapore",
+      "countryCode": "SG",
+      "region": "Singpore"
     },
     "profiles": [
       {
@@ -24,47 +24,101 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Venetian Macau Ltd",
+      "position": "Intern, Facilities Management Department",
+      "url": "https://www.venetianmacao.com/",
+      "startDate": "2023-06-01",
+      "endDate": "2023-07-31",
+      "summary": "• Conducted daily inspections across multiple raw & domestic water rooms, ensuring optimal temperature, pressure, and chlorine dioxide controller levels. Addressed 50+ issues and optimized water pump head pressure calculations using Affinity Law • Worked alongside expert technicians to inspect and maintain the hotel's centralized control systems • Identified and resolved 10+ control system malfunctions using electrical engineering principles",
+      "highlights": ["Facilities Maintainance"]
+    },
+    {
+    "name": "Engineering Intern",
+      "position": "Engineering Intern",
+      "url": "https://www.inovageo.com/",
+      "startDate": "2021-12-01",
+      "endDate": "2022-01-31",
+      "summary": "• Conducted physical simulations to measure output force over time for a single seismic source. Discovered increasing attenuation with rising scanning frequencies. Collaborated with PetroChina Saudi Arabia personnel to delve into specifics, verifying similar issues with other controllers • Performed sandwich tests to understand the relationship between plate and hammer acceleration signals and output force. Detected significant phase differences impacting force attenuation, providing insights that steered R&D efforts towards transformer signal improvements and enhanced filtering",
+      "highlights": ["Design & Communication"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Institution of Mechanical Engineers Student Chapter, University of Macau",
+      "location": "Macao, China",
+      "position": "President",
+      "url": "https://www.instagram.com/imeche_umsu/",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Led a 7-person cabinet in the earliest mechanical-related society at the University of Macau, affiliated with IMechE HK Young Member Section. Oversaw 300+ member affairs and liaised with the university to voice student needs",
+      "highlights": ["Organiszation & Professional Skills"]
+    },
+    {
+      "organization": "Shiu Pong College Debate Team, University of Macau",
+      "location": "Macao, China",
+      "position": "Group Leader",
+      "url": "https://spc.rc.um.edu.mo/spc-debate-team-won-the-third-place-of-cica-mandarin-debate-contest/",
+      "startDate": "2021-08-18",
+      "endDate": "2022-05-31",
+      "summary": "Participated in 6 formal debates representing the college in the 2021 CICA Mandarin Debate Contest. Organized 10+ annual events inviting leading figures in Mandarin debating to impart their expertise and techniques, offering a robust platform for interested students within the college to hone their debate skills",
+      "highlights": ["Third Place of CICA Mandarin Debate Contest"]
     }
+    
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Nanyang Technological University, Singapore",
+      "location": "Singapore, Singapore",
+      "url": "https://www.ntu.edu.sg/",
+      "area": "Conputer Control & Automation",
+      "studyType": "Master of Science",
+      "startDate": "2024-08-12",
+      "endDate": "est.2025",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Control Theory & Machine Vision"]
+    },
+    {
+      "institution": "University of Macau, Macao, China",
+      "location": "Macao, China",
+      "url": "https://www.um.edu.mo/",
+      "area": "Electromechanical Engineering (EME)",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-09-01",
+      "endDate": "2024-06-30",
+      "score": "10",
+      "courses": ["Mechatronics, Sensors and Actuators, Finite Element Method, Computational Fluid Dynamics, etc."]
+    },
+    {
+      "institution": "Xi'an Jiaotong University, Xi'an, China",
+      "location": "Xi'an, China",
+      "url": "http://en.xjtu.edu.cn/",
+      "area": "Mechanical Engineering",
+      "studyType": "Semester Exchange",
+      "startDate": "2022-02-15",
+      "endDate": "2022-06-30",
+      "score": "8",
+      "courses": ["Robotics, Control Engineering, Internal Combustion Engine, etc."]
     }
+    
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "The best Final Year Project of Department of EME",
+      "date": "2024-05-24",
+      "awarder": "Faculty of Science and Technology, University of Macau",
+      "url": "https://www.fst.um.edu.mo/news/um-students-final-year-projects-favoured-by-industries-in-gba/'"
+    },
+    {
+      "title": "Dean’s Honour List",
+      "date": "2020-2024",
+      "awarder": "Faculty of Science and Technology, University of Macau",
+      "url": ""
+    },
+    {
+      "title": "UM RC Foundation Scholarship",
+      "date": "2021-11-20",
+      "awarder": "University of Macau",
+      "url": ""
     }
   ],
   "certificates": [
@@ -111,90 +165,80 @@
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  
   "skills": [
     {
-      "name": "Physics",
+      "name": "CAD",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "AutoCAD",
+        "Inventor",
+        "SoildWorks"
+        
+      ]
+    },
+     {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C++",
+        "Python",
+        "Matlab"
+        
+      ]
+    },
+    {
+      "name": "BIM",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Revit"
+       
+        
       ]
     }
+   
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional",
+      "icon": ""
+    },
+    {
+      "language": "Contonese",
+      "fluency": "Intermediate",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Machine Vision",
+        "SLAM",
+        "Manipuation"
+      
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Development and Testing of a Mobile Manipulation Robot",
+      "summary": "In this project, a mobile manipulation robot, designed specifically for automating tasks in library environments is presented supervised by Prof. Qingsong Xu. Libot combines the functionalities of the UR5 robotic arm and MiR250 mobile platform, enhanced with a Realsense 435i depth camera, to autonomously navigate and interact within a library setting. The whole project is generated by Mr.Jiang Dechao ane me",
+      "highlights": ["YOLO V8", "GPD","Hactor Mapping"],
+      "startDate": "2023-09-01",
+      "endDate": "2024-05-10",
+      "https://dechaojiang.github.io/projects/Libot/"
     }
   ]
 }
