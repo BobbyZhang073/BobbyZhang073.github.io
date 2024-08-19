@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>AIMechE</a>.BSc.(UM)
 
 profile:
   align: right
   image: bobbyzhang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Nanyang Technological University/p>
+    <p>Nanyang Technological University</p>
     <p>Singapore, Singapore, 690413</p>
 
 news: false # includes a list of news items
