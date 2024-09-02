@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>AIMechE</a>. BSc.(UM)
+subtitle: <a href='#'>IMechE Affliate</a>. BSc.(UM)
 
 profile:
   align: right
   image: bobbyzhang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Nanyang Technological University</p>
-    <p>Singapore, Singapore, 690413</p>
+    <p>Current: Singapore, Singapore</p>
+    <p>Origin:Hebei, China</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
